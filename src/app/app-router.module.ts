@@ -21,7 +21,7 @@ const routes: Routes = [
     component: NoComunesComponent
   },
   {
-    path: 'odernar',
+    path: 'ordenar',
     component: OrdenarComponent
   },
   {
